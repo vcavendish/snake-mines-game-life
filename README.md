@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://vcavendish.github.io/snakegame-vcg/](https://vcavendish.github.io/snakegame-vcg/)
+> Open this page at [https://vcavendish.github.io/snake-mines-game-life/](https://vcavendish.github.io/snake-mines-game-life/)
 
 ## Use as Extension
 
@@ -10,22 +10,22 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/vcavendish/snakegame-vcg** and import
+* search for **https://github.com/vcavendish/snake-mines-game-life** and import
 
-## Edit this project ![Build status badge](https://github.com/vcavendish/snakegame-vcg/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/vcavendish/snake-mines-game-life/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/vcavendish/snakegame-vcg** and click import
+* paste **https://github.com/vcavendish/snake-mines-game-life** and click import
 
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/vcavendish/snakegame-vcg/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/vcavendish/snake-mines-game-life/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
